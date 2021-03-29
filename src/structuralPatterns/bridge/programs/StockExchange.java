@@ -3,14 +3,14 @@ package structuralPatterns.bridge.programs;
 import structuralPatterns.bridge.Developer;
 import structuralPatterns.bridge.Program;
 
-public class BankExchange extends Program {
-    public BankExchange(Developer developer) {
+public class StockExchange extends Program {
+    public StockExchange(Developer developer) {
         super(developer);
     }
 
     @Override
     public void developProgram() {
-        System.out.println("Stop Exchange Development in progress...");
+        System.out.println("Stop Exchange development in progress...");
         developer.writeCode();
     }
 }
