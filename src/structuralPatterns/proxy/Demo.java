@@ -1,4 +1,4 @@
-package StructuralPatterns.Proxy;
+package structuralPatterns.proxy;
 
 import java.util.Arrays;
 

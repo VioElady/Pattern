@@ -1,4 +1,4 @@
-package StructuralPatterns.Facade;
+package structuralPatterns.facade;
 
 /**
  * This interface states the behaviour of one of the modules of the subsystem

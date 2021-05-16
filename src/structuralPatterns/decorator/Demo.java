@@ -1,10 +1,9 @@
-package StructuralPatterns.Decorator;
-
+package structuralPatterns.decorator;
 public class Demo {
 
     public static void main(String[] args) {
         System.out.println("***Demo: pattern Decorator");
-        System.out.println("Creating: a ConcreteComponent with name=Bob, age=20");
+        System.out.println("Creating: a ConcreteComponent with name=Maxim, age=20");
         AbstractComponent component1 = new ConcreteComponent("Maxim", 20);
         System.out.println("Decorating: with new state and behaviour regarding job. Will be job=student");
         AbstractDecorator jobDecorator1 = new ConcreteDecorator(component1, "student");

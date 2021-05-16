@@ -1,4 +1,4 @@
-package StructuralPatterns.Decorator;
+package structuralPatterns.decorator;
 
 /**
  * The abstract interface of the components that will be decorated. This interface

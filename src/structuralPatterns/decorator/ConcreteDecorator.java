@@ -1,4 +1,4 @@
-package StructuralPatterns.Decorator;
+package structuralPatterns.decorator;
 /**
  * This concrete decorator adds further state and responsibilities to the
  * decorated component
@@ -20,7 +20,5 @@ public class ConcreteDecorator extends AbstractDecorator {
         return this.job;
     }
 
-    //The remaining behaviour is inherited as-is from the component's abstract
-    //interface
 
 }

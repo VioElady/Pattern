@@ -1,4 +1,4 @@
-package StructuralPatterns.Facade;
+package structuralPatterns.facade;
 
 /**
  * This is the abstract interface for the subsystem Façade which will be used

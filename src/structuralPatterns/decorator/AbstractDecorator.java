@@ -1,8 +1,8 @@
-package StructuralPatterns.Decorator;
+package structuralPatterns.decorator;
 /**
  * Abstract base class for decorators for AbstractComponent-derived types.
  * Please notice that this class complies to the interface of AbstractComponent
- * and holds an internal reference to the decorated AbstracComponent instance
+ * and holds an internal reference to the decorated AbstractComponent instance
  */
 public abstract class AbstractDecorator implements AbstractComponent {
 

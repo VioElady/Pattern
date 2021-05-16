@@ -1,4 +1,4 @@
-package StructuralPatterns.Facade;
+package structuralPatterns.facade;
 
 /**
  * Concrete implementation of AbstractSubsystemModule2

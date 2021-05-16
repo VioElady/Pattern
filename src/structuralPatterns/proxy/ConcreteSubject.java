@@ -1,4 +1,4 @@
-package StructuralPatterns.Proxy;
+package structuralPatterns.proxy;
 /**
  * Concrete implementation for AbstractSubject, providing the "heavy-weighted"
  * implementations for the operations

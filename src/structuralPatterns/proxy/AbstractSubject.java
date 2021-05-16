@@ -1,4 +1,4 @@
-package StructuralPatterns.Proxy;
+package structuralPatterns.proxy;
 /**
  * Abstract interface for either proxies and represented objects
  */

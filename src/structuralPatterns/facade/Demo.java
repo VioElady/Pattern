@@ -1,4 +1,4 @@
-package StructuralPatterns.Facade;
+package structuralPatterns.facade;
 
 import java.util.Calendar;
 

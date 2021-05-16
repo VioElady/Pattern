@@ -1,4 +1,4 @@
-package StructuralPatterns.Decorator;
+package structuralPatterns.decorator;
 /**
  * Concrete implementation for AbstractComponent interface
  */
